@@ -1,0 +1,14 @@
+{
+  "name": "afkbot-subhan",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.0.0",
+    "mineflayer-pathfinder": "^1.0.0",
+    "mineflayer-auto-eat": "^1.0.0",
+    "vec3": "^0.1.0"
+  }
+}
