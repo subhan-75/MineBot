@@ -29,9 +29,9 @@ function createBot() {
   console.log('Creating bot...');
 
   bot = mineflayer.createBot({
-    host: HOST,            // intentionally blank in repo
-    port: PORT,            // undefined if not provided
-    username: USERNAME,
+    host: "saifuandsubhansmp.aternos.me",            // intentionally blank in repo
+    port: "51516",            // undefined if not provided
+    username: "Subhan King",
     version: VERSION || false, // false auto-detects server version
   });
 
